@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TBS.Services.Trains",
+    "\\TBS.Services.Trains\\Controllers",
+    "\\TBS.Services.Trains\\Models",
+    "\\TBS.Services.Trains\\Models\\Dto"
+  ],
+  "SelectedNode": "\\TBS.Services.Trains\\Models\\Bus.cs",
+  "PreviewInSolutionExplorer": false
+}

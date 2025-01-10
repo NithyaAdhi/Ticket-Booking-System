@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TBS.Services.Buses.props" />
+</Project>

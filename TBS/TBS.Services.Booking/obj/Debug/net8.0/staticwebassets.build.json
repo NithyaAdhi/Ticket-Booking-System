@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dwtNcCJHfBQ0p3MkSm+ZTDX2iKI4qzQcuvnEN1dayH0=",
+  "Source": "Services.Booking",
+  "BasePath": "_content/Services.Booking",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
