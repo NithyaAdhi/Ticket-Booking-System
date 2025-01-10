@@ -1,0 +1,72 @@
+/* AdminDashboard.css */
+
+/* Styling for Admin Dashboard title */
+h5 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for form labels */
+  label {
+    font-weight: bold;
+  }
+  
+  /* Styling for input fields */
+  .form-control {
+    border-radius: 5px;
+    border-color: #ccc;
+  }
+  
+  /* Styling for search button */
+  .btn-primary {
+    border-radius: 5px;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  /* Styling for table */
+  .table {
+    margin-top: 20px;
+  }
+  
+  /* Styling for table header */
+  .table thead th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* Styling for table cells */
+  .table td,
+  .table th {
+    border-color: #ccc;
+  }
+  
+  /* Styling for action buttons */
+  .action-buttons {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /* Styling for save/update button */
+  .save-button {
+    margin-top: 10px;
+  }
+  
+  /* Styling for success alerts */
+  .Toastify__toast--success {
+    background-color: #28a745;
+  }
+  
+  /* Styling for error alerts */
+  .Toastify__toast--error {
+    background-color: #dc3545;
+  }
+  
+
+  hr {
+    border: none;
+    height: 1px;
+    background-color: #373636; 
+    margin: 20px 10px 20px 20px; 
+  }
