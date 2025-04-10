@@ -4347,24 +4347,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hasit\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hasit\\OneDrive\\Desktop\\RN_Assignment\\RN224\\TicketBookingSystem\\TBS\\TBS.Services.Trains\\Services.Trains.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\github\\Ticket-Booking-System\\TBS\\TBS.Services.Trains\\Services.Trains.csproj",
       "projectName": "Services.Trains",
-      "projectPath": "C:\\Users\\hasit\\OneDrive\\Desktop\\RN_Assignment\\RN224\\TicketBookingSystem\\TBS\\TBS.Services.Trains\\Services.Trains.csproj",
-      "packagesPath": "C:\\Users\\hasit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hasit\\OneDrive\\Desktop\\RN_Assignment\\RN224\\TicketBookingSystem\\TBS\\TBS.Services.Trains\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Documents\\github\\Ticket-Booking-System\\TBS\\TBS.Services.Trains\\Services.Trains.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\github\\Ticket-Booking-System\\TBS\\TBS.Services.Trains\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hasit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4372,7 +4367,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4385,11 +4379,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4450,7 +4439,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

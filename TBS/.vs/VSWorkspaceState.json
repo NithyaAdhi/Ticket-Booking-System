@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\TBS.Services.Booking",
+    "\\TBS.Services.Booking\\Controllers",
     "\\TBS.Services.Trains",
     "\\TBS.Services.Trains\\Controllers",
     "\\TBS.Services.Trains\\Models",
     "\\TBS.Services.Trains\\Models\\Dto"
   ],
-  "SelectedNode": "\\TBS.Services.Trains\\Models\\Bus.cs",
+  "SelectedNode": "\\TBS.Services.Booking\\Controllers\\BookingAPIController.cs",
   "PreviewInSolutionExplorer": false
 }
